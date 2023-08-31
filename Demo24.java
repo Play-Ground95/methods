@@ -12,9 +12,9 @@ public class Demo24 {
         System.out.println("myMethod(Integer)");
     }
     static void myMethod(Integer ...x){
-        System.out.println("myMethod(Integer ..x");
+        System.out.println("myMethod(Integer ..x)");
     }
-    static void myMethod(int ...x){
+    static void myMethod(byte ...x){
         System.out.println("myMethod(int ...x)");
     }
 
